@@ -9,3 +9,6 @@ def lone_sum(a, b, c):
         return 0
     else:
         return a+b+c
+
+x = lone_sum(15, 13, 3)
+print(x)
